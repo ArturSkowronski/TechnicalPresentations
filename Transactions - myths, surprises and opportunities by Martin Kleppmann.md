@@ -43,7 +43,7 @@
 			* Postgres, mySQL,SQL Server (with SNAPSHOT)
 			* Prevent Read Skew
 		* Read Commited
-			* Can be done without global coordination
+			* 	Can be done without global coordination
 			* Read Skew can happen
 			* Prevents Dirty Reads - cannot read data that are not commited
 			* Prevents Dirty Writes - order of writes
