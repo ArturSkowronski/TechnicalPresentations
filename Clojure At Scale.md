@@ -1,4 +1,6 @@
 ## Clojure At Scale
+https://www.youtube.com/watch?v=av9Xi6CNqq4&index=9&list=WL
+
 * From WalmartLabs
 	* Product
 		* Digital Recipes 
