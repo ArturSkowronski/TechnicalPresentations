@@ -36,3 +36,4 @@
 		* filter changes which should be passed
 	* Binding Key
 * tryrabbitmq.com
+* DLQ - Dead Letter Queue - for the messages that couldn't be consumed. Will be retried
