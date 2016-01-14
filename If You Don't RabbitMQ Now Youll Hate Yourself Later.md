@@ -37,3 +37,5 @@
 	* Binding Key
 * tryrabbitmq.com
 * DLQ - Dead Letter Queue - for the messages that couldn't be consumed. Will be retried
+	* Should be observed by Monitoring
+* Lyra - library for recovery of rabbit connections
