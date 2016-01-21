@@ -15,3 +15,5 @@
 * Clojure STM as default concurrency model
 * Clojure CSP - Communicating Sequential Processing
 * List - single linked list
+* mapcat -> flatmap
+* macra works only during compilation, then they are transformed to their body
