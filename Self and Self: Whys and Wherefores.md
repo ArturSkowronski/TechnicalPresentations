@@ -25,3 +25,12 @@ https://www.youtube.com/watch?v=3ka4KY7TMTU
 * Use what your users already know
 * Self
 	* Match language to mental models
+* Compilers are for 50s
+* PS - first JIT
+* Fist Generation Implementation
+	* General Scavenging
+	* Maps
+	* Custopmization
+	* Dynamic Compilation
+	* Dyanmic deoptimization
+* don't design features for examples, design for principles
